@@ -15,7 +15,7 @@
     "magento/composer-dependency-version-audit-plugin": "~0.1",
     "magento/composer-root-update-plugin": "~1.1",
     "magento/product-community-edition": "2.4.3",
-    "scandipwa/installer": "3.1.0",
+    "scandipwa/installer": "4.0.0",
     "scandipwa/locale": "2.0.0"
   },
   "autoload": {
